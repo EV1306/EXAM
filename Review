@@ -1,5 +1,5 @@
 1.Find the parts
-There is one big folder xith all of the three files. But index.html is located is located on another sub-folder which is named templates and style.css is also located on a different sub-folder called static. App.py is not in a sub-folder but is only on the big folder named “EXAM”. 
+There is one big folder with all of the three files. But index.html is located is located on another sub-folder which is named templates and style.css is also located on a different sub-folder called static. App.py is not in a sub-folder but is only on the big folder named “EXAM”. 
 app.py : the main script that handles routes and starts the server.
 templates/index.html : the code for the main web page displayed to visitors.
  static/style.css : the code for the appearance of the web page (colors, margin, line-height). 
