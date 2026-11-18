@@ -1,1 +1,10 @@
-sfv
+1.Find the parts
+There is one big folder xith all of the three files. But index.html is located is located on another sub-folder which is named templates and style.css is also located on a different sub-folder called static. App.py is not in a sub-folder but is only on the big folder named “EXAM”. 
+app.py : the main script that handles routes and starts the server.
+templates/index.html : the code for the main web page displayed to visitors.
+ static/style.css : the code for the appearance of the web page (colors, margin, line-height). 
+3.I changed the text color to a black one (the #0c0e0c), the background color to a red one (#d81d1d) and one spacing value using padding (2rem 1.5rem). To change the background-color we used the background color’s property. 
+4. Follow a value from Python to HTML - 2 marks
+The message is defined in python and displayed in the htlm file. When we change the message text and only reload python, the rendered page has the updated text. This means the browser receives the message text and knows how to interpret it thanks to the curly-brace expression. 
+5. Save and explain your work. 
+We have changed the title of the web page in the main heading and we also created a small paragraph below to explain what the viewer could find here. We have also changed one text colour using color, one background colour using background-color and one spacing value using padding to control the space inside an element. We added an argument on the python code, using a comma to separate arguments between them. Then we added a curly brace expression to the template on the page body to indicate what to render to the browser.
